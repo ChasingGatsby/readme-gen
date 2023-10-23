@@ -73,8 +73,8 @@ function generateMarkdown(data) {
   ${licenseSection}
 
   ## Questions
-  https://github.com/${data.username}
-  ${data.email}
+  https://github.com/${data.username}\n
+  ${data.email}\n
   If you have any questions, please feel free to contact me using the above!
 `;
 }
