@@ -52,6 +52,7 @@ const promptUser = () => {
 };
 
 // TODO: Create a function to write README file
+// Implemented writeFile functionality into function chain
 // function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
