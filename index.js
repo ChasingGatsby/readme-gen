@@ -36,7 +36,7 @@ const promptUser = () => {
     {
       type: "input",
       name: "tests",
-      message: "Include tests for you application",
+      message: "Include tests for you application.",
     },
     {
       type: "input",
