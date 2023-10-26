@@ -1,6 +1,6 @@
 # Sample Readme ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  This is a demo for assignment submission.
+  This is an example for assignment submission.
 
   ## Table of Contents
   - [Description](#description)
@@ -18,10 +18,10 @@
   By using it.
 
   ## Contributions
-  Just contact me.
+  Contact me.
 
   ## Tests
-  Please don't test this lol
+  Please don't test this.
 
   ## License
 

@@ -18,11 +18,11 @@ The assignment was actually pretty simple this time around. Much of the issue wa
 
 ## Installation
 
-You can install this by simply cloning the repo off of GitHub.
+You can install this by cloning the repo off of GitHub. Installation of inquirer v8.2.4 package needed for proper functionality.
 
 ## Usage
 
-You can click this link for a quick demo on how to use this application: https://drive.google.com/file/d/18Ke9jLVf3yKXlIJE1J5BcBD84_rRuf83/view
+You can click this link for a quick demo on how to use this application: https://drive.google.com/file/d/1gSsl4VrZNrmzOoxoPHwMBJR3R0fpKEdg/view
 
 ## Contributions
 
