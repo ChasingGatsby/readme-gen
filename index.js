@@ -58,7 +58,7 @@ const promptUser = () => {
 // TODO: Create a function to initialize app
 function init() {
   promptUser()
-    .then((answers) => writeFile("output/sample.md", generateMarkdown(answers)))
+    .then((answers) => writeFile("output/README.md", generateMarkdown(answers)))
     .then(() => console.log("README successfully created!"))
     .catch((err) => console.error(err));
 }

@@ -1,6 +1,6 @@
-# Sample Readme ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Week 14: Tech Blog ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
-  This is an example for assignment submission.
+  
 
   ## Table of Contents
   - [Description](#description)
@@ -12,16 +12,16 @@
   - [Questions](#questions)
 
   ## Installation
-  By installing it.
+  Clone off GitHub and ensure all relevant packages are installed.
 
   ## Usage
-  By using it.
+  Link to repo
 
   ## Contributions
-  Contact me.
+  Feel free to contact me!
 
   ## Tests
-  Please don't test this.
+  No testing needed.
 
   ## License
 
